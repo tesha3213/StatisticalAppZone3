@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThongKeZone3", "ThongKeZone3\ThongKeZone3.csproj", "{EC7A2B98-5269-4C3D-9A95-BE5B657BE5C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web API", "ThongKeZone3\Web API.csproj", "{EC7A2B98-5269-4C3D-9A95-BE5B657BE5C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{3EB25210-FCEC-412B-8592-AFAB1D0682DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EC7A2B98-5269-4C3D-9A95-BE5B657BE5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC7A2B98-5269-4C3D-9A95-BE5B657BE5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC7A2B98-5269-4C3D-9A95-BE5B657BE5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB25210-FCEC-412B-8592-AFAB1D0682DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB25210-FCEC-412B-8592-AFAB1D0682DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB25210-FCEC-412B-8592-AFAB1D0682DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB25210-FCEC-412B-8592-AFAB1D0682DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
